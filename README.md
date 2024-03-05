@@ -12,7 +12,7 @@ Feel free to use the data to construct your own data application and you can ref
 
 [![](https://img.shields.io/badge/Data-OpenDigger-2097FF)](https://github.com/X-lab2017/open-digger)
 
-### For repos
+
 
 <table>
   <thead>
